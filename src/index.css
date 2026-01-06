@@ -1,0 +1,86 @@
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-primary: #818cf8;
+  --color-primary-hover: #6366f1;
+
+  --color-background-light: var(--bg-light);
+  --color-background-dark: var(--bg-dark);
+  --color-card-light: var(--card-light);
+  --color-card-dark: var(--card-dark);
+  --color-text-main-light: var(--text-main);
+  --color-text-main-dark: var(--text-main);
+  /* We'll use one variable if we want auto-switch, but user uses light/dark variants in JSX */
+  --color-text-secondary-light: var(--text-secondary);
+  --color-text-secondary-dark: var(--text-secondary);
+  --color-border-light: var(--border-light);
+  --color-border-dark: var(--border-dark);
+
+  --font-display: "Inter", sans-serif;
+  --radius-default: 0.25rem;
+  --radius-lg: 0.5rem;
+  --radius-xl: 0.75rem;
+  --radius-full: 9999px;
+}
+
+:root {
+  --bg-light: #fcfcfd;
+  --bg-dark: #0a0c10;
+  --card-light: #ffffff;
+  --card-dark: #12141c;
+  --text-main: #0f172a;
+  --text-secondary: #64748b;
+  --border-light: #f1f5f9;
+  --border-dark: #1e293b;
+
+  font-family: var(--font-display);
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: var(--text-main);
+  background-color: var(--bg-light);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.dark {
+  --text-main: #ffffff;
+  --text-secondary: #94a3b8;
+  background-color: var(--bg-dark);
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-background-light);
+}
+
+.dark ::-webkit-scrollbar-track {
+  background: var(--color-background-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border-light);
+  border-radius: 4px;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: var(--color-border-dark);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-text-secondary-light);
+}
