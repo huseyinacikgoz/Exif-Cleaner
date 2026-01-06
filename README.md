@@ -1,6 +1,6 @@
 <div align="center">
 
-![EXIF Cleaner Logo](public/favicon.png)
+<img src="public/favicon/favicon-192x192.png" width="96" height="96" alt="EXIF Cleaner Logo">
 
 # EXIF Cleaner
 
@@ -37,7 +37,7 @@ A fast, secure, and privacy-focused tool to remove metadata (EXIF, GPS, device i
 - Clean all metadata with one click
 - Download as ZIP file
 
-### � Getting Started
+### 🚀 Getting Started
 
 #### Live Version
 🌐 [huseyinacikgoz.com.tr/exif-cleaner](https://huseyinacikgoz.com.tr/exif-cleaner) *(coming soon)*
@@ -70,7 +70,7 @@ npm run build
 - **exifr** - EXIF Reading
 - **JSZip** - Batch ZIP Downloads
 
-### � License
+### 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
 
@@ -89,7 +89,7 @@ Fotoğraflarınızı çevrimiçi paylaşmadan önce metadata (EXIF, GPS, cihaz b
 - Hiçbir görsel veya metadata sunucuya yüklenmez
 - Çerez, izleme veya analitik yok
 
-#### � Kullanıcı Deneyimi
+#### 🎨 Kullanıcı Deneyimi
 - Güzel açık ve koyu temalar
 - Çoklu dil desteği (Türkçe & İngilizce)
 - Masaüstü ve mobil için duyarlı tasarım
@@ -100,7 +100,7 @@ Fotoğraflarınızı çevrimiçi paylaşmadan önce metadata (EXIF, GPS, cihaz b
 - Tek tıkla tüm metadata'yı temizleyin
 - ZIP dosyası olarak indirin
 
-### � Başlarken
+### 🚀 Başlarken
 
 #### Canlı Versiyon
 🌐 [huseyinacikgoz.com.tr/exif-cleaner](https://huseyinacikgoz.com.tr/exif-cleaner) *(yakında)*
@@ -133,7 +133,7 @@ npm run build
 - **exifr** - EXIF Okuma
 - **JSZip** - Toplu ZIP İndirme
 
-### � Lisans
+### 📝 Lisans
 
 Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
@@ -162,7 +162,7 @@ Katkılarınızı bekliyoruz! Lütfen:
 
 **v1.0.0** - İlk sürüm
 
-## � Bağlantılar
+## 🔗 Bağlantılar
 
 - [🌐 Canlı Demo](https://huseyinacikgoz.com.tr/exif-cleaner) *(yakında)*
 - [💻 GitHub Repo](https://github.com/huseyinacikgoz/exif-cleaner)

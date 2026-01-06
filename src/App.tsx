@@ -335,7 +335,7 @@ function App() {
       <header className="sticky top-0 z-50 w-full border-b border-border-light dark:border-border-dark bg-background-light/80 dark:bg-background-dark/80 backdrop-blur-md px-6 sm:px-10 py-3">
         <div className="flex items-center justify-between mx-auto max-w-[1200px]">
           <div className="flex items-center gap-3">
-            <img src="/favicon.png" alt="Logo" className="size-8 rounded-lg" />
+            <img src="/favicon/favicon.png" alt="Logo" className="size-8 rounded-lg" />
             <h2 className="text-xl font-bold tracking-tight">{t.title}</h2>
           </div>
 
