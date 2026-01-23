@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="public/favicon/favicon-192x192.png" width="96" height="96" alt="EXIF Cleaner Logo">
+<img src="public/favicon/android-chrome-512x512.png" width="96" height="96" alt="EXIF Cleaner Logo">
 
 # EXIF Cleaner
 
@@ -85,7 +85,7 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 <div align="center">
 
-<img src="public/favicon/favicon-192x192.png" width="96" height="96" alt="EXIF Cleaner Logo">
+<img src="public/favicon/android-chrome-512x512.png" width="96" height="96" alt="EXIF Cleaner Logo">
 
 # EXIF Cleaner
 
