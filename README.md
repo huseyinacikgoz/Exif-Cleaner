@@ -14,7 +14,7 @@
 
 **Fotoğraflarınızdan EXIF Verilerini Temizleyin - Gizliliğinizi Koruyun**
 
-[![Sürüm](https://img.shields.io/badge/sürüm-v1.0.1-black?style=flat-square)](https://huseyinacikgoz.com.tr/exif-cleaner/)
+[![Sürüm](https://img.shields.io/badge/sürüm-v1.0.2-black?style=flat-square)](https://huseyinacikgoz.com.tr/exif-cleaner/)
 [![Lisans](https://img.shields.io/badge/lisans-MIT-blue?style=flat-square)](LICENSE)
 [![Durum](https://img.shields.io/badge/durum-Yayında-green?style=flat-square)](https://huseyinacikgoz.com.tr/exif-cleaner/)
 
@@ -100,6 +100,8 @@ Katkılarınızı bekliyoruz!
 
 ### 📊 Versiyon
 
+**v1.0.2** - Sosyal medya paylaşım görseli (og:image) ve favicon güncellemeleri
+
 **v1.0.1** - Performans iyileştirmeleri ve hata düzeltmeleri
 
 **v1.0.0** - İlk sürüm
@@ -131,7 +133,7 @@ Made with ❤️ by [Hüseyin Açıkgöz](https://huseyinacikgoz.com.tr)
 
 **Remove EXIF Data from Your Photos - Protect Your Privacy**
 
-[![Version](https://img.shields.io/badge/version-v1.0.1-black?style=flat-square)](https://huseyinacikgoz.com.tr/exif-cleaner/)
+[![Version](https://img.shields.io/badge/version-v1.0.2-black?style=flat-square)](https://huseyinacikgoz.com.tr/exif-cleaner/)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/status-Live-green?style=flat-square)](https://huseyinacikgoz.com.tr/exif-cleaner/)
 
@@ -216,6 +218,8 @@ Contributions are welcome!
 5. Open a Pull Request
 
 ### 📊 Version
+
+**v1.0.2** - Social media sharing image (og:image) and favicon updates
 
 **v1.0.1** - Performance improvements and bug fixes
 
